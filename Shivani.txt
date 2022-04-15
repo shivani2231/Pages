@@ -1,5 +1,5 @@
 <h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat About_Hrishikesh.txt </h3>
-<h2>Hi, I'm Hrishikesh Rane.</h2>
+<h2>Hi, I'm Shivani Rane.</h2>
 <p><h2>Working as Software Engineer at <a href = "https://www.xoriant.com/"> Xoriant, Pune.</a>
 <br>I am a Developer with experience in Developement, Analyzing, Debugging resolving violations and optimizing code. 
 <br>along with Python Automation, Server Maintainance and CI/CD using Azure Devops.
