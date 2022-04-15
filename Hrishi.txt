@@ -1,0 +1,34 @@
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> cat About_Hrishikesh.txt </h3>
+<h2>Hi, I'm Hrishikesh Rane.</h2>
+<p><h2>Working as Software Engineer at <a href = "https://www.xoriant.com/"> Xoriant, Pune.</a>
+<br>I am a Developer with experience in Developement, Analyzing, Debugging resolving violations and optimizing code. 
+<br>along with Python Automation, Server Maintainance and CI/CD using Azure Devops.
+<br>On weekends I try to learn new technologies and work on problem to find solutions using my software skills.</p>
+<p>In mean time I brush up my competitive programming skills. Check me out on <a href="https://codeforces.com/profile/rphrishi4">Codeforces</a>, <a href="https://leetcode.com/rphrishi4/">Leetcode </a> and <a href="https://www.hackerrank.com/rphrishi4">HackerRank</a>
+<br>My other interests are Problem Solving, Developing, Testing, Automating and Scaling with DevOps. </p> 
+<br><h2>Check out My Resume and Portfolio
+<br>Resume - <a href = "https://drive.google.com/file/d/1cWVb4lVdM2Uwjw269qsqgIkgPedqef84/view?usp=sharing">Click here</a> 
+<br>Portfolio - <a href = "https://rphrishi4.github.io/Portfolio/">Click here</a>
+<br>
+I am Certified by Microsoft as Azure Fundamentalist.
+<br>
+<br>Microsoft Certified Azure Fundamentals AZ-900 - <a href = "https://www.credly.com/badges/56aa6941-fb60-4b17-8e29-f92fbfb9bddf/public_url">Click here</a>
+
+<br>Microsoft Certified Azure AI Fundamentals AI-900 - <a href = "https://www.credly.com/badges/c470b9b1-8e09-4d71-b8cd-efcdcf4f4644/public_url">Click here</a>
+
+<br>Microsoft Certified Azure Data Fundamentals DP-900 - <a href = "https://www.credly.com/badges/9d8f2233-3222-439d-b830-c445188cb593/public_url">Click here</a>
+</h2>
+
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2>Email addresses : <a href="mailto:hrishiatwork@gmail.com">hrishiatwork@gmail.com</a>; 
+Phone Number : <a href = "tel: +917020098529"> +91-7020098529 </a>
+Linked-In Profile : <a href = "https://www.linkedin.com/in/hrishikesh-rane/"> Hrishikesh Rane</a> <br/> </h2> 
+
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span></h2>
+<h2>More About me</h2>
+<h2> I always wanted to code and develop something during my school days :P</h2>
+<h2> And here I am working and trying to solve real world problems.</h2>
+<h2>Till date I have solved small problems which I faced and ready for the next big thing.</h2>
+
+<h2><span id="a">Hrishikesh@Rane</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h2>
+<h2>Everyone is a loser till they decide to do something about it. </h2>
